@@ -1,0 +1,1 @@
+When working, we could have empty directories that serves some kind of purpose, but Git, by default doesn't recognize empty folders. If, for a project, an empty folder is necessary, we can use a file named .gitkeep with the files and directories that we wish to include.

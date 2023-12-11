@@ -1,0 +1,1 @@
+This command shows information about the commits made, as the date when a commit was made, the author, the changes and etc.
